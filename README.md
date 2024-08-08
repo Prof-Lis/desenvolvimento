@@ -1,6 +1,7 @@
-# Embaixadores
-Repositório destinado ao Curso Embaixadores em Ação - Edutech 
-Projetos Desenvolvidos em HTML e CSS
+# Nome do seu projeto
+Descreva seu projeto
+Informe as fontes que utilizou para construir o seu site (textos e imagens)
+Apresente as instruções de navegabilidade pelo site
 
 
 
